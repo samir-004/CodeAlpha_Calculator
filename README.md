@@ -37,5 +37,5 @@ It also includes keyboard support and a modern dark UI for better user experienc
 
 ## 📷 Preview
 
-<img width="1920" height="941" alt="image" src="https://github.com/user-attachments/assets/8d860d84-1ccf-41a7-9891-032606e746ba" />
+![Calculator Screenshot](calculator.png)
 
